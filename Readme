@@ -1,1 +1,13 @@
+### **Title:** *Tornado Statistics for Texas Association of Tornado*
 
+### **Author:** Sonja Sebree
+
+### **Dependencies:**
+* [Leaflet 1.x](https://leafletjs.com/reference-1.6.0.html)
+
+### **Code Version:**
+Last Updated: 20240426 
+
+### **Description:**
+This interactive proportional symbol map, built using Leaflet, demonstrates the Texas Tornado activity by county and Texas Emergency GIS Response (EGRT) Regions for a 5 year period 
+for 2015-2020.
