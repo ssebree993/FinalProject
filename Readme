@@ -17,7 +17,7 @@ showing past locations by county, with an interactive map with a slider for each
 years of tornado activity in Texas from 2015-2020. The drop-down tool will allow the selection of
 one or more of the six EGRT Regions. Each historical tornadic event will have an interactive
 popup that contains basic information on the Date, EF Rating, Property Damage Cost in Dollars,
-injuries, Fatalities, and County location. Calculating a county polygon of standardized density
+injuries, Fatalities, Length in miles and County location. Calculating a county polygon of standardized density
 per 1,000 square miles (2015-2020) will lend itself to users discovering which areas have the
 most significant damage. The base maps of Open Street Map for roads/urban areas, ESRI World
 Imagery, World Shaded Relief and Topo Maps with Contours can be utilized for direct field use.
